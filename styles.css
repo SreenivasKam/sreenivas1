@@ -11,7 +11,7 @@ h1{font-family: 'Sacramento', cursive;
   margin: 50px auto 0 auto;
   font-weight: 900;
   font-size: 5.625rem;
-  color: #ff0000;
+  color: red;
 }
 .navbar-nav{
   color: #ffffff;
@@ -19,7 +19,7 @@ h1{font-family: 'Sacramento', cursive;
 
 }
 .nav-link{
-  color: #ffffff;
+  color: red;
   font-size: 1.2rem;
 }
 .navbar{
